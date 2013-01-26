@@ -10,7 +10,7 @@ To install:
 
     pip install django-daddy-avatar
 
-Usage:
+Then add pin to your INSTALLED_APPS:
 
 .. code:: python
 
@@ -19,6 +19,9 @@ Usage:
         'daddy-avatar',
         ...
     )
+
+
+Usage:
 
 .. code:: html
 
