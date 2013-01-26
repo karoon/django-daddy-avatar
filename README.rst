@@ -12,11 +12,15 @@ To install:
 
 Usage:
 
+.. code:: python
+
     INSTALLED_APPS = (
         ...
         'daddy-avatar',
         ...
     )
+
+.. code:: html
 
     {% load daddy_avatar %}
     <!-- from string -->
